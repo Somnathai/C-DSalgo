@@ -1,2 +1,2 @@
-# C-DSalgo
+# C++ -DSalgo
 different problems and solving techniques
